@@ -1,0 +1,7 @@
+ul {
+  display: flex;
+  justify-content: center;
+  list-style-type: none; }
+  ul li {
+    margin-right: 20px; }
+
